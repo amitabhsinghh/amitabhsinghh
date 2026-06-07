@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS senior who loves building useful things, solving real problems, and always learning by doing, currently working on smart AI tools and systems people actually use.
+CS graduate who loves building useful things, solving real problems, and always learning by doing, currently working on smart AI tools and systems people actually use.
 
 
 ## 🌐 Socials:
